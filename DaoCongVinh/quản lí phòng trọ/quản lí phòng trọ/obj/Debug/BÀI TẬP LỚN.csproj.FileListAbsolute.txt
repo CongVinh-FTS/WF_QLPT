@@ -1,0 +1,52 @@
+D:\bài tập c#\BÀI TẬP LỚN\bin\Debug\BÀI TẬP LỚN.exe.config
+D:\bài tập c#\BÀI TẬP LỚN\bin\Debug\BÀI TẬP LỚN.exe
+D:\bài tập c#\BÀI TẬP LỚN\bin\Debug\BÀI TẬP LỚN.pdb
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI TẬP LỚN.csproj.AssemblyReference.cache
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI TẬP LỚN.csproj.SuggestedBindingRedirects.cache
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.Frmmain.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.Properties.Resources.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI TẬP LỚN.csproj.GenerateResource.cache
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI TẬP LỚN.csproj.CoreCompileInputs.cache
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI TẬP LỚN.exe
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI TẬP LỚN.pdb
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.formconvidu.formxinchao.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.frmLoaiphong.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.frmPhong.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.frmdichvu.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.frmDangnhap.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.frmThuephong.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.formconvidu.frmThemphongthue.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.frmDSKhachhang.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.các_from_đăng_nhập.frmDoimatkhau.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.frmPhongdgthue.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.form_thống_kê.frmPhongtrong.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.form_thống_kê.frmDoanhthu.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.frmAddKhachhang.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.các_chức_năng.frmTraphong.resources
+D:\bài tập c#\BÀI TẬP LỚN\obj\Debug\BÀI_TẬP_LỚN.các_from_đăng_nhập.frmTaotk.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\bin\Debug\BÀI TẬP LỚN.exe.config
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\bin\Debug\BÀI TẬP LỚN.exe
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\bin\Debug\BÀI TẬP LỚN.pdb
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI TẬP LỚN.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI TẬP LỚN.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.các_chức_năng.frmTraphong.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.các_from_đăng_nhập.frmDoimatkhau.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.các_from_đăng_nhập.frmTaotk.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.form_thống_kê.frmDoanhthu.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.form_thống_kê.frmPhongtrong.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.formconvidu.frmThemphongthue.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.frmDSKhachhang.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.frmAddKhachhang.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.Frmmain.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.formconvidu.formxinchao.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.frmDangnhap.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.frmdichvu.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.frmLoaiphong.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.frmPhong.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.frmPhongdgthue.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.frmThuephong.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI_TẬP_LỚN.Properties.Resources.resources
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI TẬP LỚN.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI TẬP LỚN.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI TẬP LỚN.exe
+C:\Users\DELL\Downloads\DaoCongVinh\quản lí phòng trọ\quản lí phòng trọ\obj\Debug\BÀI TẬP LỚN.pdb

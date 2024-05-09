@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{92E5A9A8-84EF-4255-B419-5D5F459CF852}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BÀI_TẬP_LỚN</RootNamespace>
+    <AssemblyName>BÀI TẬP LỚN</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="các chức năng\frmTraphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="các chức năng\frmTraphong.Designer.cs">
+      <DependentUpon>frmTraphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="các from đăng nhập\frmDoimatkhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="các from đăng nhập\frmDoimatkhau.Designer.cs">
+      <DependentUpon>frmDoimatkhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="các from đăng nhập\frmTaotk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="các from đăng nhập\frmTaotk.Designer.cs">
+      <DependentUpon>frmTaotk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmmain + Database\Database.cs" />
+    <Compile Include="form thống kê\frmDoanhthu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form thống kê\frmDoanhthu.Designer.cs">
+      <DependentUpon>frmDoanhthu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form thống kê\frmPhongtrong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form thống kê\frmPhongtrong.Designer.cs">
+      <DependentUpon>frmPhongtrong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="các chức năng\frmThemphongthue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="các chức năng\frmThemphongthue.Designer.cs">
+      <DependentUpon>frmThemphongthue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="các chức năng\frmDSKhachhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="các chức năng\frmDSKhachhang.Designer.cs">
+      <DependentUpon>frmDSKhachhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="các chức năng\frmAddKhachhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="các chức năng\frmAddKhachhang.Designer.cs">
+      <DependentUpon>frmAddKhachhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmmain + Database\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmain + Database\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="các from đăng nhập\formxinchao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="các from đăng nhập\formxinchao.Designer.cs">
+      <DependentUpon>formxinchao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="các from đăng nhập\frmDangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="các from đăng nhập\frmDangnhap.Designer.cs">
+      <DependentUpon>frmDangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="các chức năng\frmdichvu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="các chức năng\frmdichvu.Designer.cs">
+      <DependentUpon>frmdichvu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="các chức năng\frmLoaiphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="các chức năng\frmLoaiphong.Designer.cs">
+      <DependentUpon>frmLoaiphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="các chức năng\frmPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="các chức năng\frmPhong.Designer.cs">
+      <DependentUpon>frmPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form thống kê\frmPhongdgthue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form thống kê\frmPhongdgthue.Designer.cs">
+      <DependentUpon>frmPhongdgthue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="các chức năng\frmThuephong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="các chức năng\frmThuephong.Designer.cs">
+      <DependentUpon>frmThuephong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="các chức năng\frmTraphong.resx">
+      <DependentUpon>frmTraphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="các from đăng nhập\frmDoimatkhau.resx">
+      <DependentUpon>frmDoimatkhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="các from đăng nhập\frmTaotk.resx">
+      <DependentUpon>frmTaotk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form thống kê\frmDoanhthu.resx">
+      <DependentUpon>frmDoanhthu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form thống kê\frmPhongtrong.resx">
+      <DependentUpon>frmPhongtrong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="các chức năng\frmThemphongthue.resx">
+      <DependentUpon>frmThemphongthue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="các chức năng\frmDSKhachhang.resx">
+      <DependentUpon>frmDSKhachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="các chức năng\frmAddKhachhang.resx">
+      <DependentUpon>frmAddKhachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmain + Database\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="các from đăng nhập\formxinchao.resx">
+      <DependentUpon>formxinchao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="các from đăng nhập\frmDangnhap.resx">
+      <DependentUpon>frmDangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="các chức năng\frmdichvu.resx">
+      <DependentUpon>frmdichvu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="các chức năng\frmLoaiphong.resx">
+      <DependentUpon>frmLoaiphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="các chức năng\frmPhong.resx">
+      <DependentUpon>frmPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form thống kê\frmPhongdgthue.resx">
+      <DependentUpon>frmPhongdgthue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="các chức năng\frmThuephong.resx">
+      <DependentUpon>frmThuephong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-10-app-phan-mem-quan-ly-nha-tro-640x360.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
